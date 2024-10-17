@@ -1,0 +1,32 @@
+﻿/* Full page background color */
+body {
+    background-color: #F4F7FF; /* Light blue background */
+    height: 100vh;
+    margin: 0;
+}
+
+/* Style for the form card */
+.card {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+
+/* Upload Photo Label */
+.form-label {
+    cursor: pointer;
+    display: inline-block;
+}
+
+    .form-label i {
+        color: #007bff;
+        margin-bottom: 10px;
+    }
+
+/* Navbar */
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+    .navbar-dark .navbar-nav .nav-link:hover {
+        color: #f8f9fa;
+    }

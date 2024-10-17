@@ -1,0 +1,65 @@
+﻿/* Full page background and layout */
+
+
+
+
+
+.Signincontainer {
+    width: 80%; /* Adjust this percentage as needed */
+    max-width: 1200px; /* You can also set a maximum width if needed */
+    height: 90vh; /* Full height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; /* Example light background */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+.form-section {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+}
+
+    .form-section h4,
+    .form-section h3 {
+        color: #333;
+    }
+
+    .form-section .form-control {
+        border-radius: 20px;
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+
+.btn-primary {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+}
+
+.logo {
+    width: 30px;
+    height: auto;
+    margin-left:50px;
+    position: relative;
+    top: 120px
+}
+
+/* Image Section */
+.image-section {
+    width: 50%;
+    background-image: url('../Images/background.jpg');
+    background-size: cover; /* Ensures image covers the right section fully */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%; /* Adjust to fill the height of the container */
+}
+
+.Signincontainer {
+    height: 400px;
+}

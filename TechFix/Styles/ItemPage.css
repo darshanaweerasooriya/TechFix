@@ -1,0 +1,18 @@
+﻿/* Center the card buttons */
+.card-body .d-flex {
+    justify-content: center;
+}
+
+.card-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.card img {
+    max-height: 150px;
+    object-fit: contain;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 15px;
+}

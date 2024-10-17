@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\techfix pages\\itemdescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\techfix pages\\itemdescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\techfix pages\\itemspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\techfix pages\\itemspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\itemsdescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\itemsdescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\techfix pages\\orderspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\techfix pages\\orderspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\addinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\addinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\itempage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\itempage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\component\\navbar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\component\\navbar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\supplier pages\\sendproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\sendproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\orderpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\orderpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\supplier pages\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\component\\techfixnavbar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\component\\techfixnavbar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\styles\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\styles\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\techfix pages\\requestquotation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\techfix pages\\requestquotation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|c:\\users\\manul perera\\documents\\my officals\\techfix\\techfix\\techfix pages\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\techfix pages\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\component\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\component\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\itempage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\itempage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\itemsdescription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\itemsdescription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\orderpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\orderpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\sendproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\sendproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\supplier pages\\addinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supplier pages\\addinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\styles\\addiventory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\styles\\addiventory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\styles\\itempage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\styles\\itempage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\techfix\\styles\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A0648C9-18A7-4ABF-95D4-110BBB33D32D}|TechFix\\TechFix.csproj|solutionrelative:techfix\\styles\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SendProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SendProduct.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\SendProduct.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SendProduct.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\SendProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T05:55:49.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Navbar.ascx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Component\\Navbar.ascx",
+              "RelativeDocumentMoniker": "TechFix\\Component\\Navbar.ascx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Component\\Navbar.ascx",
+              "RelativeToolTip": "TechFix\\Component\\Navbar.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-17T05:47:59.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemDescription.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\ItemDescription.aspx",
+              "RelativeDocumentMoniker": "TechFix\\TechFix Pages\\ItemDescription.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\ItemDescription.aspx",
+              "RelativeToolTip": "TechFix\\TechFix Pages\\ItemDescription.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T05:35:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TechFixNavbar.ascx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Component\\TechFixNavbar.ascx",
+              "RelativeDocumentMoniker": "TechFix\\Component\\TechFixNavbar.ascx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Component\\TechFixNavbar.ascx",
+              "RelativeToolTip": "TechFix\\Component\\TechFixNavbar.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-17T05:35:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\ItemsPage.aspx",
+              "RelativeDocumentMoniker": "TechFix\\TechFix Pages\\ItemsPage.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\ItemsPage.aspx",
+              "RelativeToolTip": "TechFix\\TechFix Pages\\ItemsPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T05:32:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Notification.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\Notification.aspx",
+              "RelativeDocumentMoniker": "TechFix\\TechFix Pages\\Notification.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\Notification.aspx",
+              "RelativeToolTip": "TechFix\\TechFix Pages\\Notification.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T05:28:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Notification.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\Notification.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\Notification.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\Notification.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\Notification.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T05:07:38.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\OrdersPage.aspx",
+              "RelativeDocumentMoniker": "TechFix\\TechFix Pages\\OrdersPage.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\OrdersPage.aspx",
+              "RelativeToolTip": "TechFix\\TechFix Pages\\OrdersPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-16T18:36:32.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestQuotation.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\RequestQuotation.aspx",
+              "RelativeDocumentMoniker": "TechFix\\TechFix Pages\\RequestQuotation.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\TechFix Pages\\RequestQuotation.aspx",
+              "RelativeToolTip": "TechFix\\TechFix Pages\\RequestQuotation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-16T18:23:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignIn.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignIn.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\SignIn.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignIn.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\SignIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-10T14:43:58.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignUp.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignUp.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-11T18:11:49.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsDescription.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemsDescription.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\ItemsDescription.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemsDescription.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\ItemsDescription.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T18:02:13.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\OrderPage.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\OrderPage.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\OrderPage.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\OrderPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-13T07:43:21.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\AddInventory.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\AddInventory.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\AddInventory.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\AddInventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-13T06:30:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemPage.aspx",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\ItemPage.aspx",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemPage.aspx",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\ItemPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T18:28:21.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignIn.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignIn.aspx.cs",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\SignIn.aspx.cs",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignIn.aspx.cs",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\SignIn.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:41:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SignUp.aspx.cs",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\SignUp.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:41:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SendProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SendProduct.aspx.cs",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\SendProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\SendProduct.aspx.cs",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\SendProduct.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:41:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\OrderPage.aspx.cs",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\OrderPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\OrderPage.aspx.cs",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\OrderPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:41:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ItemsDescription.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemsDescription.aspx.cs",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\ItemsDescription.aspx.cs",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemsDescription.aspx.cs",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\ItemsDescription.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:41:58.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemPage.aspx.cs",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\ItemPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\ItemPage.aspx.cs",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\ItemPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:42:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddIventory.css",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\AddIventory.css",
+              "RelativeDocumentMoniker": "TechFix\\Styles\\AddIventory.css",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\AddIventory.css",
+              "RelativeToolTip": "TechFix\\Styles\\AddIventory.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T06:39:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\AddInventory.aspx.cs",
+              "RelativeDocumentMoniker": "TechFix\\Supplier Pages\\AddInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Supplier Pages\\AddInventory.aspx.cs",
+              "RelativeToolTip": "TechFix\\Supplier Pages\\AddInventory.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:39:31.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUp.css",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\SignUp.css",
+              "RelativeDocumentMoniker": "TechFix\\Styles\\SignUp.css",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\SignUp.css",
+              "RelativeToolTip": "TechFix\\Styles\\SignUp.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T18:13:07.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ItemPage.css",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\ItemPage.css",
+              "RelativeDocumentMoniker": "TechFix\\Styles\\ItemPage.css",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\ItemPage.css",
+              "RelativeToolTip": "TechFix\\Styles\\ItemPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T15:42:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Component\\Navbar.css",
+              "RelativeDocumentMoniker": "TechFix\\Component\\Navbar.css",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Component\\Navbar.css",
+              "RelativeToolTip": "TechFix\\Component\\Navbar.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T15:51:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Signin.css",
+              "DocumentMoniker": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\Signin.css",
+              "RelativeDocumentMoniker": "TechFix\\Styles\\Signin.css",
+              "ToolTip": "C:\\Users\\Manul Perera\\Documents\\My officals\\TechFix\\TechFix\\Styles\\Signin.css",
+              "RelativeToolTip": "TechFix\\Styles\\Signin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T14:58:45.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
