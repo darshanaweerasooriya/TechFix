@@ -126,6 +126,7 @@
     </Compile>
     <Compile Include="Component\TechFixNavbar.ascx.cs">
       <DependentUpon>TechFixNavbar.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Component\TechFixNavbar.ascx.designer.cs">
       <DependentUpon>TechFixNavbar.ascx</DependentUpon>

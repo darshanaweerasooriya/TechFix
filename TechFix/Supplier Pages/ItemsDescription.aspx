@@ -61,28 +61,40 @@
             background-color: #006e90;
         }
 
-            .navbar .fa-bell, .navbar .fa-envelope {
-    font-size: 1.2rem; 
-    color: white !important;
-}
+        .navbar .fa-bell, .navbar .fa-envelope {
+            font-size: 1.2rem; 
+            color: white !important;
+        }
 
+        .navbar .fa-bell:hover, .navbar .fa-envelope:hover {
+            color: #f8f9fa !important; 
+        }
 
-.navbar .fa-bell:hover, .navbar .fa-envelope:hover {
-    color: #f8f9fa !important; 
-}
+        .nav-link {
+            padding: 0.5rem 1rem; 
+        }
 
-.nav-link {
-    padding: 0.5rem 1rem; 
-}
+        .navbar-toggler {
+            border-color: rgb(128, 128, 128); 
+        }
 
-.navbar-toggler {
-    border-color: rgb(128, 128, 128); 
-}
+        .navbar-toggler-icon {
+            color:white;
+            border-radius: 5px; 
+        }
 
-.navbar-toggler-icon {
-    color:white;
-    border-radius: 5px; 
-}
+        .action-icons .btn {
+            display: flex;
+            align-items: center;
+        }
+
+        .action-icons .btn .bi {
+            margin-right: 5px; 
+        }
+
+        .navbar-nav {
+            margin-left: auto !important; 
+        }
     </style>
 </head>
 <body>
@@ -96,29 +108,38 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="item-card text-center">
-                    <img src="../Images/RAM.jpg" class="item-image" alt="TEUTONS 4GB DDR4">
+                    <img src="../Images/RAM.jpg" class="item-image" alt="TEUTONS 4GB DDR4" />
                     <h5 class="item-title">TEUTONS 4GB DDR4 2400mhz Desktop Ram</h5>
-                    <p class="item-price">Rs. 3,500.00</p>
+                    <asp:Label ID="lblPrice" runat="server" CssClass="item-price" Text="Rs. 3,500.00"></asp:Label>
                     <ul class="list-unstyled item-description">
-                        <li>Internal memory: 4 GB</li>
-                        <li>Internal memory type: DDR4</li>
-                        <li>Clock memory speed: 2400 MHz</li>
-                        <li>Component for: PC / server</li>
+                        <li><asp:Label runat="server" Text="Internal memory: 4 GB" /></li>
+                        <li><asp:Label runat="server" Text="Internal memory type: DDR4" /></li>
+                        <li><asp:Label runat="server" Text="Clock memory speed: 2400 MHz" /></li>
+                        <li><asp:Label runat="server" Text="Component for: PC / server" /></li>
                     </ul>
-                    <div class="action-icons">
-                        <a href="#" class="btn btn-outline-primary"><i class="bi bi-pencil"></i></a>
-                        <a href="#" class="btn btn-outline-danger"><i class="bi bi-trash"></i></a>
-                    </div>
+                  <div class="action-icons">
+    <asp:LinkButton ID="btnEdit" runat="server" CssClass="btn btn-outline-primary" OnClick="btnEdit_Click">
+        <i class="bi bi-pencil"></i> 
+    </asp:LinkButton>
+    <asp:LinkButton ID="btnDelete" runat="server" CssClass="btn btn-outline-danger" OnClick="btnDelete_Click">
+        <i class="bi bi-trash"></i> 
+    </asp:LinkButton>
+</div>
+
                 </div>
             </div>
         </div>
     </div>
-    </form>
+   </form>
 
     <!-- Bootstrap and jQuery -->
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+    // Ensure to use JavaScript/jQuery to replace button text with icons after page load
+
+</script>
 
 
 </body>

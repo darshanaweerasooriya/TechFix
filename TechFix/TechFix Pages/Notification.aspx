@@ -73,6 +73,9 @@
             text-decoration: none;
             color: inherit;
         }
+        .navbar-nav {
+            margin-left: auto !important; 
+        }
     </style>
 </head>
 <body>
@@ -96,14 +99,15 @@
 
                     <!-- Product Info -->
                     <div class="col-md-7">
-                        <p class="product-title">TEUTONS 4GB DDR4 2400mhz Desktop RAM</p>
-                        <p class="price">Rs 3,500.00</p>
+                        <asp:Label ID="ProductTitle" runat="server" CssClass="product-title" Text="TEUTONS 4GB DDR4 2400mhz Desktop RAM"></asp:Label><br />
+                        <asp:Label ID="ProductPrice" runat="server" CssClass="price" Text="Rs 3,500.00"></asp:Label>
                     </div>
                 </div>
             </div>
         </a>
     </div>
 </form>
+
     <!-- Bootstrap JS and dependencies -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>

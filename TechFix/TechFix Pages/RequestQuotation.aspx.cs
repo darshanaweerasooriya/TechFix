@@ -13,5 +13,9 @@ namespace TechFix.TechFix_Pages
         {
 
         }
+        protected void btnRequestQuotation_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

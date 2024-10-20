@@ -13,5 +13,10 @@ namespace TechFix.Supplier_Pages
         {
 
         }
+
+        protected void btnSend_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

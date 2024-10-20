@@ -13,5 +13,9 @@ namespace TechFix.Supplier_Pages
         {
 
         }
+        protected void handleSingUp(object sender, EventArgs e)
+        {
+
+        }
     }
 }

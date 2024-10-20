@@ -13,5 +13,10 @@ namespace TechFix.Supplier_Pages
         {
 
         }
+
+        protected void handleSingIn(object sender, EventArgs e)
+        {
+
+        }
     }
 }
