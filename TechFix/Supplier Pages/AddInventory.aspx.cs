@@ -13,5 +13,11 @@ namespace TechFix.Supplier_Pages
         {
 
         }
+
+        protected void btnSave_Click(object sender, EventArgs e)
+        {
+            // Implement the logic 
+        }
+
     }
 }

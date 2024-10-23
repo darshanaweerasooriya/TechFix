@@ -13,5 +13,21 @@ namespace TechFix.Supplier_Pages
         {
 
         }
+        protected void btnEdit1_Click(object sender, EventArgs e)
+        {
+            // Implement the logic 
+        }
+        protected void btnDelete1_Click(object sender, EventArgs e)
+        {
+            // Implement the logic 
+        }
+        protected void btnEdit2_Click(object sender, EventArgs e)
+        {
+            // Implement the logic 
+        }
+        protected void btnDelete2_Click(object sender, EventArgs e)
+        {
+            // Implement the logic 
+        }
     }
 }

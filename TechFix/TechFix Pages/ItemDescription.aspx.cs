@@ -13,5 +13,9 @@ namespace TechFix.TechFix_Pages
         {
 
         }
+        protected void btnOrder_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

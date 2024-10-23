@@ -13,5 +13,25 @@ namespace TechFix.Supplier_Pages
         {
 
         }
+        protected void btnConfirm_Click(object sender, EventArgs e)
+        {
+            // Logic to confirm the order
+        }
+
+        protected void btnCancel_Click(object sender, EventArgs e)
+        {
+            // Logic to cancel the order
+        }
+
+        protected void btnConfirm2_Click(object sender, EventArgs e)
+        {
+            // Logic to confirm the second order
+        }
+
+        protected void btnCancel2_Click(object sender, EventArgs e)
+        {
+            // Logic to cancel the second order
+        }
+
     }
 }

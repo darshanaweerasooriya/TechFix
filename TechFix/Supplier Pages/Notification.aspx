@@ -80,36 +80,32 @@
 <body>
       
     <form id="form1" runat="server">
-     <!-- Navbar -->
-  <uc1:Navbar runat="server" />
-    <!-- Main Content -->
-    <div class="container">
-        <h2 class="mt-4">Notification</h2>
+        <!-- Navbar -->
+        <uc1:Navbar runat="server" />
         
-        <div class="card notification-card">
-            <div class="row">
-                <!-- Product Image -->
-                <div class="col-md-2 text-center">
-                    <img src="../Images/RAM.jpg" alt="Product Image" class="product-image">
-                </div>
-                
-                <!-- Product Info -->
-                <div class="col-md-7">
-                    <p class="product-title">TEUTONS 4GB DDR4 2400mhz Desktop RAM</p>
-                    <p class="price">Rs 3,500.00</p>
-                </div>
-                
-                <!-- Proceed Button -->
-                
-                <div class="col-md-3 text-center">
+        <!-- Main Content -->
+        <div class="container">
+            <h2 class="mt-4">Notification</h2>
+            
+            <div class="card notification-card">
+                <div class="row">
+                    <!-- Product Image -->
+                    <div class="col-md-2 text-center">
+                        <img src="../Images/RAM.jpg" alt="Product Image" class="product-image">
+                    </div>
+                    
+                    <!-- Product Info -->
+                    <div class="col-md-7">
+                        <asp:Label ID="lblProductTitle" runat="server" CssClass="product-title" Text="TEUTONS 4GB DDR4 2400mhz Desktop RAM"></asp:Label><br />
+                        <asp:Label ID="lblPrice" runat="server" CssClass="price" Text="Rs 3,500.00"></asp:Label>
+                    </div>
+                    
+                    <!-- Proceed Button -->
+                     <div class="col-md-3 text-center">
                     <button class="proceed-btn" type="button" onclick="window.location.href='https://localhost:44397/Supplier%20Pages/SendProduct.aspx'">Proceed</button>
-
                 </div>
-
-
             </div>
         </div>
-    </div>
     </form>
 
     <!-- Bootstrap JS and jQuery -->
@@ -119,4 +115,3 @@
     
 </body>
 </html>
-

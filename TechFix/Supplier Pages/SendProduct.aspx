@@ -55,66 +55,63 @@
             background-color: #006e90;
         }
         .navbar-toggler-icon {
-            color:white;
+            color: white;
             border-radius: 5px;
         }
         .navbar .fa-bell, .navbar .fa-envelope {
             font-size: 1.2rem; 
             color: white !important; 
         }
-
-
         .navbar .fa-bell:hover, .navbar .fa-envelope:hover {
             color: #f8f9fa !important; 
         }
-
         .nav-link {
             padding: 0.5rem 1rem; 
         }
-
-.navbar-toggler {
-    border-color: rgb(128, 128, 128); 
-}
-
+        .navbar-toggler {
+            border-color: rgb(128, 128, 128); 
+        }
+        .navbar-nav {
+            margin-left: auto !important; 
+        }
     </style>
 </head>
 <body>
 
-  
-     <!-- Navbar -->
- <uc1:Navbar runat="server" />
+    <!-- Navbar -->
+    <uc1:Navbar runat="server" />
 
     <div class="container mb-4">
         <div class="quote-section">
             <!-- Form Section -->
             <div class="col-lg-6 form-container">
-                <form>
+                <form id="form1" runat="server">
                     <div class="mb-3">
                         <label for="quoteNumber" class="form-label">Quote Number</label>
-                        <input type="text" class="form-control" id="quoteNumber" placeholder="Enter Quote Number">
+                        <asp:TextBox ID="quoteNumber" runat="server" CssClass="form-control" placeholder="Enter Quote Number"></asp:TextBox>
                     </div>
                     <div class="mb-3">
                         <label for="effectiveDate" class="form-label">Effective Date</label>
-                        <input type="date" class="form-control" id="effectiveDate">
+                        <asp:TextBox ID="effectiveDate" runat="server" CssClass="form-control" TextMode="Date"></asp:TextBox>
                     </div>
                     <div class="mb-3">
                         <label for="endDate" class="form-label">End Date</label>
-                        <input type="date" class="form-control" id="endDate">
+                        <asp:TextBox ID="endDate" runat="server" CssClass="form-control" TextMode="Date"></asp:TextBox>
                     </div>
                     <div class="mb-3">
                         <label for="receiver" class="form-label">Receiver</label>
-                        <input type="text" class="form-control" id="receiver" placeholder="Enter Receiver Name">
+                        <asp:TextBox ID="receiver" runat="server" CssClass="form-control" placeholder="Enter Receiver Name"></asp:TextBox>
                     </div>
                     <div class="mb-3">
                         <label for="certifiedBy" class="form-label">Certified by</label>
-                        <input type="text" class="form-control" id="certifiedBy" placeholder="Enter Certifier Name">
+                        <asp:TextBox ID="certifiedBy" runat="server" CssClass="form-control" placeholder="Enter Certifier Name"></asp:TextBox>
                     </div>
                     <div class="mb-3">
                         <label for="description" class="form-label">Description</label>
-                        <textarea class="form-control" id="description" rows="3" placeholder="Enter Description"></textarea>
+                        <asp:TextBox ID="description" runat="server" CssClass="form-control" TextMode="MultiLine" Rows="3" placeholder="Enter Description"></asp:TextBox>
                     </div>
                     <div class="d-flex justify-content-center">
-                        <button type="submit" class="btn send-btn">Send</button>
+                        <asp:Button ID="btnSend" runat="server" CssClass="btn send-btn" Text="Send" OnClick="btnSend_Click" />
                     </div>
                 </form>
             </div>
@@ -125,7 +122,7 @@
                     <img src="../Images/RAM2.jpg" class="card-img-top" alt="Product Image">
                     <div class="card-body text-center">
                         <h5 class="card-title">TEUTONS 4GB DDR4 2400mhz Desktop Ram</h5>
-                        <p class="card-text text-danger fs-5">Rs. 3,500.00</p>
+                        <span class="text-danger fs-5">Rs. 3,500.00</span>
                     </div>
                 </div>
             </div>
@@ -133,14 +130,13 @@
     </div>
 
     <!-- jQuery (required for Bootstrap 4) -->
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 
-<!-- Popper.js (Bootstrap 4 dependency for tooltips and popovers) -->
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <!-- Popper.js (Bootstrap 4 dependency for tooltips and popovers) -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 
-<!-- Bootstrap JS -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </body>
 </html>
-
